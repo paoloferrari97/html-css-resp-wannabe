@@ -94,7 +94,7 @@ img {
   }
   #lezioni > div > :nth-child(3){
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
   }
 
   /* steps */
